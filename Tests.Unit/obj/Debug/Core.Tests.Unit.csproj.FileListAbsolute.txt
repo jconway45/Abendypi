@@ -1,0 +1,11 @@
+C:\TFS\Personal\Abendypi\Core.Tests.Unit\bin\Debug\Core.Tests.Unit.dll
+C:\TFS\Personal\Abendypi\Core.Tests.Unit\bin\Debug\Core.Tests.Unit.pdb
+C:\TFS\Personal\Abendypi\Core.Tests.Unit\bin\Debug\Core.dll
+C:\TFS\Personal\Abendypi\Core.Tests.Unit\bin\Debug\Moq.dll
+C:\TFS\Personal\Abendypi\Core.Tests.Unit\bin\Debug\nunit.framework.dll
+C:\TFS\Personal\Abendypi\Core.Tests.Unit\bin\Debug\Core.pdb
+C:\TFS\Personal\Abendypi\Core.Tests.Unit\bin\Debug\Moq.xml
+C:\TFS\Personal\Abendypi\Core.Tests.Unit\bin\Debug\nunit.framework.xml
+C:\TFS\Personal\Abendypi\Core.Tests.Unit\obj\Debug\Core.Tests.Unit.csprojResolveAssemblyReference.cache
+C:\TFS\Personal\Abendypi\Core.Tests.Unit\obj\Debug\Core.Tests.Unit.dll
+C:\TFS\Personal\Abendypi\Core.Tests.Unit\obj\Debug\Core.Tests.Unit.pdb

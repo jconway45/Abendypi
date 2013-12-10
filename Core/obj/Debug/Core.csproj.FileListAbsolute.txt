@@ -1,0 +1,15 @@
+C:\TFS\Personal\Abendypi\Core\bin\Debug\Core.dll
+C:\TFS\Personal\Abendypi\Core\bin\Debug\Core.pdb
+C:\TFS\Personal\Abendypi\Core\obj\Debug\Core.dll
+C:\TFS\Personal\Abendypi\Core\obj\Debug\Core.pdb
+C:\TFS\Personal\Abendypi\Core\bin\Debug\Autofac.dll
+C:\TFS\Personal\Abendypi\Core\bin\Debug\Autofac.Integration.Mvc.dll
+C:\TFS\Personal\Abendypi\Core\bin\Debug\Autofac.xml
+C:\TFS\Personal\Abendypi\Core\bin\Debug\Autofac.Integration.Mvc.xml
+C:\TFS\Personal\Abendypi\Core\bin\Debug\Autofac.Integration.WebApi.dll
+C:\TFS\Personal\Abendypi\Core\bin\Debug\System.Web.Http.dll
+C:\TFS\Personal\Abendypi\Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\TFS\Personal\Abendypi\Core\bin\Debug\Autofac.Integration.WebApi.xml
+C:\TFS\Personal\Abendypi\Core\bin\Debug\System.Web.Http.xml
+C:\TFS\Personal\Abendypi\Core\bin\Debug\System.Net.Http.Formatting.xml
+C:\TFS\Personal\Abendypi\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
